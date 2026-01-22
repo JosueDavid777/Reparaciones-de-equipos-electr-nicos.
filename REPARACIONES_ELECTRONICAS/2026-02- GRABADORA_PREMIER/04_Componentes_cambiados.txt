@@ -1,0 +1,1 @@
+Se realiza la instalación de un capacitor de 22 µF para filtrar la señal (valor deducido a partir de los capacitores circundantes). Ademas de quitar la sulfatacion usando alcohol isopropilico para que el dispositivo tenga nuevamente continuidad, asi mismo se cambia el 

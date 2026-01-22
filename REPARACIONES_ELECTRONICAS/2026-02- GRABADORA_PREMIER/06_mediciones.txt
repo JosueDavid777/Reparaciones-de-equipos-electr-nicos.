@@ -1,0 +1,1 @@
+Se realizan mediciones de continuidad usando un multímetro para verificar cuáles líneas se ven afectadas por la sulfatación en el dispositivo.
